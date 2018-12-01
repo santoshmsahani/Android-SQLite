@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="attendance_manager">Attendance Manager</string>
+    <string name="Santosh">-Santosh Sahani</string>
+    <string name="title_activity_bottom__navigation">Bottom_Navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_student_detail">View Student Detail</string>
+    <string name="add_student_detail">Add Student Detail</string>
+
+    <string name="add_activity">ADD Data</string>
+    <string name="delete_activity">DELETE DATA</string>
+    <string name="login_activity">LOGIN</string>
+    <string name="update_activity">UPDATE DATA</string>
+    <string name="view_activity">VIEW DATA</string>
+</resources>
